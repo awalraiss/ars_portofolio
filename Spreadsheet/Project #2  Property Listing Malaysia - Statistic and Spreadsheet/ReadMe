@@ -1,0 +1,14 @@
+In this case, you are the data analyst of ABC Company, which is a property listing company in Malaysia. 
+The company mission is to provide various available choices of property to their users. 
+They are providing property listings around Kuala Lumpur and other big cities in Malaysia. 
+As the data analyst of this company, you are expected to deliver insights for the company which can help the company to maximize their profit while helping users and tenants at the same time. The company brings their profit through joint-profit sharing of 20%. 
+It means that the highest-priced property brings the highest percentage of revenue to the company. 
+However, the limitation usually happens when high-priced property is hard to sell as it has too many rooms or the size of the room is too large.
+
+In this process included :
+
+1. Data Cleaning
+2. Descriptive Statistics
+3. Statistical Measurement (Minimum,Maximum,Mean,Median,Qartile etc)
+4. Exploratory Data Analysis
+5. Insight & Recommendation
